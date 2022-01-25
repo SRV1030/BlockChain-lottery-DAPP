@@ -1,0 +1,19 @@
+{
+  "name": "contractdeployer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.1",
+    "dotenv": "^8.1.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.4",
+    "solc": "^0.8.0",
+    "web3": "^1.7.0"
+  }
+}
